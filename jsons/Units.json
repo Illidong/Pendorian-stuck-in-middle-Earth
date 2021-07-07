@@ -236,16 +236,15 @@
 	},
 	{
 		"name": "Reetavirp",
-		"unitType": "WaterMelee",
-		"replaces": "Privateer",
+		"unitType": "Melee",
+		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Republic of Pendor",
 		"movement": 5,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
-		"uniques": ["May capture killed [Water] units"]
+		"promotions": ["Drill 1"],
+		"uniques": ["+[1] visibility range"]
 	},
 	{
 		"name": "Etagirf",
