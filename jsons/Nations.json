@@ -1,36 +1,35 @@
 [
 	{
-		"name": "Upside-Down",
-		"leaderName": "Rotatceps",
-		"adjective": ["Upside-Down"],
-		//No preferred victory type - we'll take any kind!
-		"style": "Upside Down",
+		"name": "Republic of Pendor",
+		"leaderName": "King Koningur Bahadur Khan Imperator",
+		"adjective": ["People of Pendor"],
+		 "preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down-Upside has long. Rotatceps, you to triumph and life long.",
-		"startIntroPart2": "Time of test the stand will that civilization a build you can? World the of center again once Down-Upside make you will? All to order and peace bringing, again rises empire your that it to see you will? Down-Upside of glory the reclaim more once to you to turn people your, Rotatceps mighty O?",
+		"startIntroPart1": "Soldiers of the Fifth! Do you recognize me?"
+		"startIntroPart2": "If you want to kill your Emperor, here I am. FIRE!!"
 		
-		"declaringWar": "Time payback it's, now. It know you, badly very yourself behaved you've.",
-		"attacked": "It swear I! Dearly regret soon will you! Fool!",
-		"defeated": "Triumph your in merciful be will you hope I. Yours is...day the.",
-		"introduction": "Bravery military for renowned are who, you with relationship just and fair a for hope we.",
+		"declaringWar": "Your fame runs before you! Let us test each other's valor on the battlefield!"
+		"attacked": "You have the look of a mercenary, another vulture come to grow fat on the misery of this land.",
+		"defeated": "I yield! Do yourself credit, and grant me the honors of war, as befitting my rank!"
+		"introduction": "Ah, yes. At last we meet. You sound like a good being to know. Let us speak together, from time to time.",
 		
-		"neutralHello": "Peace you wish I.",
-		"hateHello": "Want you do what?",
-		"tradeRequest": "Me with deal this make to – existing for reason a have do you that appears it.",
+		"neutralHello": "Peace to you, and always remember to temper your valor with mercy, your courage with honour.",
+		"hateHello": "Normally I cut the throats of impudent commoners who barge into my presence uninvited, but I am in a good mood today.",
+		"tradeRequest": "Men will always try to cheat others of their rightful due. In this faithless world, each must remain vigilant of his own rights.",
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
-		"uniqueName": "The World Turned Upside-Down",
-		"uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
+		"uniqueName": "The Prophesy",
+		"uniqueText": "Pendor....  An old land that is full of war, religious activity, and simple people.  A kingdom once ruled all of the continent simply, and accordingly, named the Kingdom of Pendor.  However, a great tragedy struck the land...",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"City-State Influence degrades [50]% slower", "City-State Influence recovers at twice the normal rate",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"+[20]% Production when constructing [Wonders]",
 			"+[2] Movement for all [Water] units",
 			"[+2 Culture] per turn from cities before [Steam Power]",
-			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
+			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Mithril] produced",
 			"+25% Production towards any buildings that already exist in the Capital",
-			"[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
+			"[+1 Gold] from each Trade Route", "Double quantity of [Niter] produced",
 			"+[1] Sight for all [{Military} {Land}] units", "-[50]% Gold cost of acquiring tiles [in all cities]",
 			"Units fight as though they were at full strength even when damaged",
 			"Unhappiness from population decreased by [50]%",
@@ -49,6 +48,6 @@
 			"+1 Movement for all embarked units", "Units pay only 1 movement point to embark and disembark", "Melee units pay no movement cost to pillage",
 			"[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]",
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
-		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
-	}
+                        "cities": ["Sarleon","Ravenstern","Janos","Javiksholm","Torbah","Marleons","Rane","Ethos","Valonbray","Singal","Ishkoman","Senderfall","Laria","Nal Tar","Windholm","Cez","Poinsbruk","Avendor"]
+	   }
 ]
