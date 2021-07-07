@@ -2,7 +2,7 @@
    	{
     	"name": "Yrarbil",
 		"replaces": "Library",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"hurryCostModifier": 25,
 		"gold": 2,
 		"uniques": ["[+1 Science] Per [2] population [in this city]"],
@@ -11,7 +11,7 @@
 	{
 		"name": "Retaw Llim",
 		"replaces": "Water Mill",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"cost": 75,
 		"food": 2,
 		"production": 1,
@@ -26,7 +26,7 @@
 		"name": "Sllaw",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -35,7 +35,7 @@
     {
 		"name": "Skcarrab",
 	   	"replaces": "Barracks",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"xpForNewUnits": 15,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -46,7 +46,7 @@
     {
 		"name": "Retaehtihpma",
 		"replaces": "Amphitheater",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"culture": 4,
 		"happiness": 2,
 		"specialistSlots": {"Artist": 1},
@@ -57,7 +57,7 @@
     {
 		"name": "Tekram",
 		"replaces": "Market",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -70,7 +70,7 @@
     {
 		"name": "Pohskrow",
 		"replaces": "Workshop",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
@@ -83,7 +83,7 @@
     {
 		"name": "Ytisrevinu",
 		"replaces": "University",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -96,7 +96,7 @@
    	{
 		"name": "Eltsac",
 		"replaces": "Castle",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Republic of Pendor",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 2,
@@ -108,7 +108,7 @@
     {
 		"name": "Knab",
 		"replaces": "Bank",
-		"uniqueTo": "Upside-Down",	
+		"uniqueTo": "Republic of Pendor",	
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
